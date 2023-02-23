@@ -2,3 +2,4 @@
 1. t-shirt Update
 2. t-shirt Buy
 3. add shopping basket
+4. show detail-page
